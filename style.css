@@ -211,3 +211,9 @@
       footer { text-align: center; justify-content: center; }
       .footer-links { justify-content: center; }
     }
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
